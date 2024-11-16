@@ -51,7 +51,5 @@ Saya percaya bahwa teknologi adalah kunci untuk membuat hidup lebih baik, dan sa
 
 ## Hubungi Saya  
 📬 **Email**: satriafarel40@gmail.com  
-🌐 **Portofolio**: [Kunjungi Portofolio Saya](https://example.com)  
-📱 **LinkedIn**: [Satria Farel](https://linkedin.com/in/satria-farel)  
 
 Jika Anda memiliki proyek atau ide menarik, mari berdiskusi dan berkolaborasi untuk menciptakan sesuatu yang luar biasa! 🚀  
