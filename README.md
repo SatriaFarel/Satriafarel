@@ -25,20 +25,40 @@ Saya percaya bahwa sebuah website bukan hanya alat, tetapi juga karya seni yang 
 ⚙️ **Tech**: HTML, CSS, JS, Bootstrap  
 ✨ **Fitur**: cari resep berdasarkan daerah, desain responsif  
 
+---
+
 ### 📋 DataSiswa  
 📖 Sistem pendataan siswa untuk institusi pendidikan.  
 ⚙️ **Tech**: PHP, MySQL, Bootstrap  
 ✨ **Fitur**: CRUD data siswa, laporan terstruktur  
+
+---
 
 ### 🎨 Portofolio Pribadi  
 📖 Website untuk memamerkan karya & perjalanan karier saya.  
 ⚙️ **Tech**: HTML, CSS, JS  
 ✨ **Fitur**: galeri proyek, desain responsif  
 
+---
+
 ### 📜 Web Sertifikat  
 📖 Platform untuk membuat & mengelola sertifikat digital.  
 ⚙️ **Tech**: PHP, HTML, CSS, dompdf  
 ✨ **Fitur**: input data, export sertifikat ke PDF  
+
+---
+
+### 🕌 JadwalShalatSF  
+📖 Aplikasi jadwal shalat digital untuk membantu umat muslim memantau waktu ibadah.  
+⚙️ **Tech**: PHP, HTML, CSS, API waktu shalat  
+✨ **Fitur**: menampilkan jadwal shalat sesuai lokasi, desain simpel & ringan  
+
+---
+
+### 🔮 CekKhodam  
+📖 Website hiburan untuk mengecek "khodam" secara interaktif.  
+⚙️ **Tech**: HTML, CSS, JavaScript  
+✨ **Fitur**: input nama → hasil random unik, tampilan responsif & interaktif  
 
 ---
 
@@ -62,5 +82,6 @@ Saya percaya teknologi adalah kunci untuk membuat hidup lebih baik, dan saya ing
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Satriafarel)  
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/satriafarel30)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?logo=vercel&logoColor=black)](https://portofoliosf.vercel.app)  
+[![Linktree](https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white)](https://linktree-sf.vercel.app)  
 
 ---
