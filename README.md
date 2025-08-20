@@ -12,6 +12,7 @@ Saya percaya bahwa sebuah website bukan hanya alat, tetapi juga karya seni yang 
 - **HTML & CSS** → pondasi kuat + desain memikat  
 - **JavaScript** → menambah interaktivitas  
 - **PHP** → backend logic & database handling  
+- **Flutter** → membangun aplikasi mobile lintas platform (Android & iOS)  
 - **Frameworks**:  
   - Bootstrap (UI cepat & responsif)  
   - TailwindCSS (utility-first modern styling)  
