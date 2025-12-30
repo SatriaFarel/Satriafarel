@@ -11,7 +11,7 @@ Saya percaya bahwa sebuah website bukan hanya alat, tetapi juga karya seni yang 
 💡 **Spesialisasi saya**:  
 - **HTML & CSS** → pondasi kuat + desain memikat  
 - **JavaScript** → menambah interaktivitas  
-- **PHP** → backend logic & database handling  
+- **Laravel** → backend logic & database handling  
 - **Flutter** → membangun aplikasi mobile lintas platform (Android & iOS)  
 - **Frameworks**:  
   - Bootstrap (UI cepat & responsif)  
@@ -56,10 +56,10 @@ Saya percaya bahwa sebuah website bukan hanya alat, tetapi juga karya seni yang 
 
 ---
 
-### 🔮 CekKhodam  
-📖 Website hiburan untuk mengecek "khodam" secara interaktif.  
-⚙️ **Tech**: HTML, CSS, JavaScript  
-✨ **Fitur**: input nama → hasil random unik, tampilan responsif & interaktif  
+### 🏘️ SIWarga (Sistem Informasi Warga RT)
+📖 Website administrasi RT berbasis web.
+⚙️ Tech: Laravel, PHP, MySQL, TailwindCSS
+✨ Fitur: Pengelolaan data warga, iuran rutin, dan informasi RT.
 
 ---
 
