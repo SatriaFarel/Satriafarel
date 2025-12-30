@@ -57,9 +57,9 @@ Saya percaya bahwa sebuah website bukan hanya alat, tetapi juga karya seni yang 
 ---
 
 ### 🏘️ SIWarga (Sistem Informasi Warga RT)
-📖 Website administrasi RT berbasis web.
-⚙️ Tech: Laravel, PHP, MySQL, TailwindCSS
-✨ Fitur: Pengelolaan data warga, iuran rutin, dan informasi RT.
+📖 Sistem administrasi RT berbasis web.  
+⚙️ **Tech**: Laravel, PHP, MySQL, TailwindCSS  
+✨ **Fitur**: Pengelolaan data warga, iuran rutin, dan informasi RT.  
 
 ---
 
