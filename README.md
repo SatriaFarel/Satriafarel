@@ -1,87 +1,176 @@
-# 👨‍💻 Satria Farel Cipta Permata  
+# 👨‍💻 Satria Farel Cipta Permata
 
-Selamat datang di dunia saya, seorang **Web Developer** yang selalu bersemangat untuk menciptakan karya inovatif dan berdampak! 🌟  
+<div align="center">
 
----
+### Web Developer • Problem Solver • Tech Enthusiast
 
-## 🚀 Tentang Saya  
-Hai! Saya **Satria Farel Cipta Permata**, seorang web developer dengan minat besar pada pembuatan website modern dan responsif.  
-Saya percaya bahwa sebuah website bukan hanya alat, tetapi juga karya seni yang bisa menceritakan banyak hal.  
+Membangun solusi digital yang modern, responsif, dan bermanfaat.
 
-💡 **Spesialisasi saya**:  
-- **HTML & CSS** → pondasi kuat + desain memikat  
-- **JavaScript** → menambah interaktivitas  
-- **Laravel** → backend logic & database handling  
-- **Flutter** → membangun aplikasi mobile lintas platform (Android & iOS)  
-- **Frameworks**:  
-  - Bootstrap (UI cepat & responsif)  
-  - TailwindCSS (utility-first modern styling)  
+![Profile Views](https://komarev.com/ghpvc/?username=SatriaFarel\&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/SatriaFarel?label=Followers\&style=social)
+![GitHub stars](https://img.shields.io/github/stars/SatriaFarel?affiliations=OWNER\&style=social)
+
+</div>
 
 ---
 
-## 📂 Proyek yang Pernah Saya Garap  
+# 🚀 Tentang Saya
 
-### 🌾 FoodStart  
-📖 Website resep makanan khas Nusantara.  
-⚙️ **Tech**: HTML, CSS, JS, Bootstrap  
-✨ **Fitur**: cari resep berdasarkan daerah, desain responsif  
+Halo! Saya **Satria Farel Cipta Permata**, seorang **Web Developer** yang memiliki minat besar dalam membangun aplikasi web modern.
 
----
+Saya menikmati proses mengubah **ide menjadi produk digital** yang dapat digunakan dan memberikan dampak nyata.
 
-### 📋 DataSiswa  
-📖 Sistem pendataan siswa untuk institusi pendidikan.  
-⚙️ **Tech**: PHP, MySQL, Bootstrap  
-✨ **Fitur**: CRUD data siswa, laporan terstruktur  
+> *"Code is not just logic, it’s a way to build solutions."*
 
 ---
 
-### 🎨 Portofolio Pribadi  
-📖 Website untuk memamerkan karya & perjalanan karier saya.  
-⚙️ **Tech**: HTML, CSS, JS  
-✨ **Fitur**: galeri proyek, desain responsif  
+# 🧠 Tech Stack
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-skyblue?logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap\&logoColor=white)
+
+</div>
 
 ---
 
-### 📜 Web Sertifikat  
-📖 Platform untuk membuat & mengelola sertifikat digital.  
-⚙️ **Tech**: PHP, HTML, CSS, dompdf  
-✨ **Fitur**: input data, export sertifikat ke PDF  
+# 📊 Skill Focus
+
+```mermaid
+pie
+title Skill Distribution
+"Laravel / Backend" : 35
+"Frontend (HTML CSS JS)" : 30
+"UI Framework (Tailwind, Bootstrap)" : 20
+"Mobile Development (Flutter)" : 15
+```
 
 ---
 
-### 🕌 JadwalShalatSF  
-📖 Aplikasi jadwal shalat digital untuk membantu umat muslim memantau waktu ibadah.  
-⚙️ **Tech**: PHP, HTML, CSS, API waktu shalat  
-✨ **Fitur**: menampilkan jadwal shalat sesuai lokasi, desain simpel & ringan  
+# 📂 Proyek Pilihan
+
+### 🌾 FoodStart
+
+Website resep makanan khas Nusantara.
+
+Tech:
+HTML • CSS • JavaScript • Bootstrap
+
+Fitur:
+
+* Pencarian resep berdasarkan daerah
+* Desain responsif
+* Navigasi mudah
 
 ---
 
-### 🏘️ SIWarga (Sistem Informasi Warga RT)
-📖 Sistem administrasi RT berbasis web.  
-⚙️ **Tech**: Laravel, PHP, MySQL, TailwindCSS  
-✨ **Fitur**: Pengelolaan data warga, iuran rutin, dan informasi RT.  
+### 📋 DataSiswa
+
+Sistem pendataan siswa untuk institusi pendidikan.
+
+Tech:
+PHP • MySQL • Bootstrap
+
+Fitur:
+
+* CRUD data siswa
+* Manajemen data pendidikan
+* Laporan data siswa
 
 ---
 
-## 🌟 Misi Saya  
-> *"Mewujudkan ide menjadi solusi digital yang berdampak."*  
+### 📜 Web Sertifikat
 
-Saya percaya teknologi adalah kunci untuk membuat hidup lebih baik, dan saya ingin jadi bagian dari perjalanan itu.  
+Platform untuk membuat dan mengelola sertifikat digital.
+
+Tech:
+PHP • HTML • CSS • dompdf
+
+Fitur:
+
+* Input data peserta
+* Generate sertifikat otomatis
+* Export PDF
+
+---
+
+### 🕌 JadwalShalatSF
+
+Aplikasi jadwal shalat digital berbasis web.
+
+Tech:
+PHP • HTML • CSS • API waktu shalat
+
+Fitur:
+
+* Jadwal shalat sesuai lokasi
+* Tampilan sederhana dan ringan
+* Informasi waktu ibadah
 
 ---
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaFarel&layout=compact&theme=radical)  
+### 🏘️ SIWarga
+
+Sistem informasi warga berbasis web untuk administrasi RT.
+
+Tech:
+Laravel • MySQL • TailwindCSS
+
+Fitur:
+
+* Pengelolaan data warga
+* Sistem iuran
+* Informasi kegiatan RT
 
 ---
 
-## 🤝 Hubungi Saya  
-📬 **Email**: satriafarel40@gmail.com  
+# 🌟 Filosofi Pengembangan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/SatriaFarel)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Satriafarel)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/satriafarel30)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?logo=vercel&logoColor=black)](https://portofoliosf.vercel.app)  
-[![Linktree](https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white)](https://linktree-sf.vercel.app)  
+```mermaid
+flowchart LR
+Idea[Ide] --> Design[Desain Sistem]
+Design --> Development[Development]
+Development --> Testing[Testing]
+Testing --> Improvement[Improvement]
+Improvement --> Product[Produk Siap Digunakan]
+```
 
 ---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatriaFarel\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaFarel\&layout=compact\&theme=radical)
+
+</div>
+
+---
+
+# 🤝 Hubungi Saya
+
+📬 Email
+[satriafarel40@gmail.com](mailto:satriafarel40@gmail.com)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/SatriaFarel)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github\&logoColor=white)](https://github.com/Satriafarel)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram\&logoColor=white)](https://instagram.com/satriafarel30)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?logo=vercel\&logoColor=black)](https://portofoliosf.vercel.app)
+[![Linktree](https://img.shields.io/badge/Linktree-green?logo=linktree\&logoColor=white)](https://linktree-sf.vercel.app)
+
+</div>
+
+---
+
+⭐ Jika kamu tertarik dengan project saya, jangan ragu untuk memberi **star** pada repository yang kamu sukai!
