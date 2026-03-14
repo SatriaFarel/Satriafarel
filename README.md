@@ -20,7 +20,7 @@ Halo! Saya **Satria Farel Cipta Permata**, seorang **Web Developer** yang memili
 
 Saya menikmati proses mengubah **ide menjadi produk digital** yang dapat digunakan dan memberikan dampak nyata.
 
-> *"Code is not just logic, it’s a way to build solutions."*
+> *"Code is not just logic, it's a way to build solutions."*
 
 ---
 
@@ -31,6 +31,7 @@ Saya menikmati proses mengubah **ide menjadi produk digital** yang dapat digunak
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-blue?logo=react\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter\&logoColor=white)
@@ -47,87 +48,62 @@ Saya menikmati proses mengubah **ide menjadi produk digital** yang dapat digunak
 pie
 title Skill Distribution
 "Laravel / Backend" : 35
-"Frontend (HTML CSS JS)" : 30
+"Frontend (HTML CSS JS React)" : 35
 "UI Framework (Tailwind, Bootstrap)" : 20
-"Mobile Development (Flutter)" : 15
+"Mobile Development (Flutter)" : 10
 ```
 
 ---
 
-# 📂 Proyek Pilihan
+# 🚀 Highlight Projects
 
-### 🌾 FoodStart
+### 📚 BookPoint
 
-Website resep makanan khas Nusantara.
-
-Tech:
-HTML • CSS • JavaScript • Bootstrap
+Marketplace buku berbasis **React + Laravel + Tailwind** dengan sistem multi-role.
 
 Fitur:
 
-* Pencarian resep berdasarkan daerah
-* Desain responsif
-* Navigasi mudah
+* Admin mengelola seller, customer, dan kategori
+* Seller mengelola produk dan transaksi
+* Customer melakukan pembelian dan chat dengan seller
+* Sistem marketplace dengan dashboard terpisah
 
 ---
 
-### 📋 DataSiswa
+### 🚗 ParkirKu
 
-Sistem pendataan siswa untuk institusi pendidikan.
-
-Tech:
-PHP • MySQL • Bootstrap
+Sistem manajemen parkir berbasis **Laravel + Tailwind**.
 
 Fitur:
 
-* CRUD data siswa
-* Manajemen data pendidikan
-* Laporan data siswa
+* Sistem member parkir berlangganan
+* Parkir gratis untuk member aktif
+* Non-member membayar berdasarkan durasi
+* Dashboard admin dengan laporan parkir
 
 ---
 
-### 📜 Web Sertifikat
+### 📖 Buku Tamu Digital
 
-Platform untuk membuat dan mengelola sertifikat digital.
-
-Tech:
-PHP • HTML • CSS • dompdf
+Sistem buku tamu dengan **QR Code undangan**.
 
 Fitur:
 
-* Input data peserta
-* Generate sertifikat otomatis
-* Export PDF
+* Tamu umum input data saat datang
+* Tamu khusus mendapatkan QR Code undangan
+* Admin mengelola data tamu dan check-in
 
 ---
 
-### 🕌 JadwalShalatSF
+### 📜 Sistem Sertifikat Digital
 
-Aplikasi jadwal shalat digital berbasis web.
-
-Tech:
-PHP • HTML • CSS • API waktu shalat
+Platform pengelolaan sertifikat berbasis web.
 
 Fitur:
 
-* Jadwal shalat sesuai lokasi
-* Tampilan sederhana dan ringan
-* Informasi waktu ibadah
-
----
-
-### 🏘️ SIWarga
-
-Sistem informasi warga berbasis web untuk administrasi RT.
-
-Tech:
-Laravel • MySQL • TailwindCSS
-
-Fitur:
-
-* Pengelolaan data warga
-* Sistem iuran
-* Informasi kegiatan RT
+* Admin membuat sertifikat peserta
+* Sertifikat dapat diunduh dalam format PDF
+* Manajemen data peserta dan acara
 
 ---
 
@@ -135,11 +111,11 @@ Fitur:
 
 ```mermaid
 flowchart LR
-Idea[Ide] --> Design[Desain Sistem]
+Idea[Idea] --> Design[System Design]
 Design --> Development[Development]
 Development --> Testing[Testing]
 Testing --> Improvement[Improvement]
-Improvement --> Product[Produk Siap Digunakan]
+Improvement --> Product[Product Ready]
 ```
 
 ---
@@ -158,11 +134,9 @@ Improvement --> Product[Produk Siap Digunakan]
 
 # 🤝 Hubungi Saya
 
-📬 Email
-[satriafarel40@gmail.com](mailto:satriafarel40@gmail.com)
-
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-satriafarel40%40gmail.com-red?logo=gmail\&logoColor=white)](mailto:satriafarel40@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/SatriaFarel)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github\&logoColor=white)](https://github.com/Satriafarel)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram\&logoColor=white)](https://instagram.com/satriafarel30)
