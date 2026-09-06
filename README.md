@@ -140,8 +140,8 @@ Improvement --> Product[Product Ready]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/SatriaFarel)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github\&logoColor=white)](https://github.com/Satriafarel)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram\&logoColor=white)](https://instagram.com/satriafarel30)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?logo=vercel\&logoColor=black)](https://portofoliosf.vercel.app)
-[![Linktree](https://img.shields.io/badge/Linktree-green?logo=linktree\&logoColor=white)](https://linktree-sf.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey?logo=vercel\&logoColor=black)](https://kishiyuusha.my.id)
+[![Linktree](https://img.shields.io/badge/Linktree-green?logo=linktree\&logoColor=white)](https://linktree.kishiyuusha.my.id)
 
 </div>
 
