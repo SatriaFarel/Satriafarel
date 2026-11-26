@@ -1,115 +1,420 @@
+# Satria Farel Cipta Permata
+
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · satriafarel</sub></p>
-<h1>Satria Farel</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=SATRIA%20FAREL&fontSize=48&fontColor=58A6FF&stroke=58A6FF&strokeWidth=1&animation=twinkling&color=0:0D1117,100:161B22" width="100%" />
 
-<p><a href="https://github.com/satriafarel">GitHub</a> &nbsp;·&nbsp; <a href="https://kishiyuusha.my.id">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/145923791?u=69e6332d8ce9ae8dd6c2c2f9a97506252f02134e&amp;v=4" width="180" alt="Satria Farel GitHub avatar" />
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+%7C+Information+Systems+Student;Laravel+%26+React+Developer;Building+Practical+Digital+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+
+**Web Developer · Information Systems Student · Tech Enthusiast**
+
+Turning ideas into functional applications through code, problem-solving, and continuous learning.
+
+<br />
+
+<a href="https://github.com/SatriaFarel">
+<img src="https://img.shields.io/badge/GitHub-SatriaFarel-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://kishiyuusha.my.id">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linktree.kishiyuusha.my.id">
+<img src="https://img.shields.io/badge/Linktree-Connect-161B22?style=for-the-badge&logo=linktree&logoColor=39E09B" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SatriaFarel&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/SatriaFarel?style=flat-square&color=58A6FF&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/SatriaFarel?style=flat-square&color=58A6FF&label=STARS" />
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · Blade · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>27 repositories · 12 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>223 contributions · 60 active days</p></td>
-</tr>
-</table>
+<div align="center">
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   $ whoami                                               │
+│                                                          │
+│   satria-farel                                           │
+│   ├── Role       : Web Developer                         │
+│   ├── Education  : Information Systems                   │
+│   ├── University : Universitas Jayabaya                  │
+│   ├── Focus      : Web & Backend Development             │
+│   ├── Location   : Indonesia                             │
+│   └── Mindset    : Learn. Build. Improve.                │
+│                                                          │
+│   $ echo "Building something useful, one commit at a time."│
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-<h2>Proof at a glance</h2>
+</div>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>27</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>12</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>223</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## 01 / About Me
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=satriafarel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145923791%3Fu%3D69e6332d8ce9ae8dd6c2c2f9a97506252f02134e%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=satriafarel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145923791%3Fu%3D69e6332d8ce9ae8dd6c2c2f9a97506252f02134e%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Satria Farel GitHub proof metrics" />
-</picture>
+Hi! I'm **Satria Farel Cipta Permata**, a web developer and Information Systems student at **Universitas Jayabaya**.
+
+I enjoy building applications that solve practical problems, from simple management systems to more complex web-based platforms.
+
+My development journey started with exploring web technologies and gradually expanded into backend development, database management, API integration, and application architecture.
+
+I primarily work with **Laravel, PHP, JavaScript, React, and Tailwind CSS**. I also explore mobile development and other programming languages to broaden my technical understanding.
+
+Beyond writing code, I'm interested in understanding how software works as a complete system — from requirements and database design to implementation and deployment.
+
+```javascript
+const developer = {
+    name: "Satria Farel Cipta Permata",
+    username: "SatriaFarel",
+
+    education: {
+        university: "Universitas Jayabaya",
+        faculty: "Fakultas Ilmu Komputer",
+        major: "Sistem Informasi"
+    },
+
+    primaryFocus: [
+        "Web Development",
+        "Backend Development",
+        "Database Design",
+        "System Development"
+    ],
+
+    currentlyExploring: [
+        "Go",
+        "Kotlin",
+        "Jetpack Compose",
+        "Docker",
+        "AI Integration"
+    ],
+
+    philosophy: "Build useful things. Understand how they work."
+};
+```
+
+## 02 / Technical Stack
+
+Technologies I've used in projects, experiments, and ongoing learning.
+
+### Core Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,html,css,tailwind,bootstrap" />
 </p>
 
-<h2>Selected work</h2>
+### Programming & Mobile Development
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=satriafarel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145923791%3Fu%3D69e6332d8ce9ae8dd6c2c2f9a97506252f02134e%26v%3D4&repos=satriafarel%2FBuku-Tamu%2Csatriafarel%2FBookPoint2%2Csatriafarel%2FParkirKu%2Csatriafarel%2FSIWarga&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=satriafarel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145923791%3Fu%3D69e6332d8ce9ae8dd6c2c2f9a97506252f02134e%26v%3D4&repos=satriafarel%2FBuku-Tamu%2Csatriafarel%2FBookPoint2%2Csatriafarel%2FParkirKu%2Csatriafarel%2FSIWarga&v=recruiter-projects-1&mode=dark" width="100%" alt="Satria Farel selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/SatriaFarel/Buku-Tamu">Buku-Tamu</a></h3>
-<p>A selected public project.</p>
-<p><sub>PHP · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/SatriaFarel/Buku-Tamu">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/SatriaFarel/BookPoint2">BookPoint2</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/SatriaFarel/ParkirKu">ParkirKu</a></h3><p>A selected public project.</p><p><sub>Blade · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/SatriaFarel/SIWarga">SIWarga</a></h3><p>A selected public project.</p><p><sub>Blade · ⭐ 1</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=satriafarel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145923791%3Fu%3D69e6332d8ce9ae8dd6c2c2f9a97506252f02134e%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=satriafarel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145923791%3Fu%3D69e6332d8ce9ae8dd6c2c2f9a97506252f02134e%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Satria Farel technology stack" />
-</picture>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=go,java,cs,cpp,dart,flutter,kotlin" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>PHP</strong><br /><sub>40% of public code</sub></td>
-<td width="20%" align="center"><strong>Blade</strong><br /><sub>22% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>13% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>10% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>8% of public code</sub></td>
-</tr>
-</table>
+### Database & Tools
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=satriafarel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145923791%3Fu%3D69e6332d8ce9ae8dd6c2c2f9a97506252f02134e%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=satriafarel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145923791%3Fu%3D69e6332d8ce9ae8dd6c2c2f9a97506252f02134e%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Satria Farel contribution activity" />
-</picture>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,docker,vscode,vite,figma" />
 </p>
 
-<hr />
+### Technology Focus
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/satriafarel">GitHub</a><br /><a href="https://kishiyuusha.my.id">Website</a></td>
-</tr>
-</table>
+| Area | Technologies |
+|:---|:---|
+| Backend | PHP, Laravel, Go |
+| Frontend | JavaScript, TypeScript, React |
+| Styling | Tailwind CSS, Bootstrap |
+| Database | MySQL, MariaDB |
+| Mobile | Flutter, Kotlin, Jetpack Compose |
+| Programming | Java, C#, C++ |
+| Tools | Git, GitHub, Linux, Docker |
 
-<p align="center"><sub>Satria Farel · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+*The list reflects technologies I've worked with or explored, not equal proficiency across every technology.*
+
+---
+
+## 03 / Selected Projects
+
+A collection of applications and experiments from my development journey.
+
+### 01. BookPoint2
+
+**Book Marketplace Platform**
+
+A marketplace application designed to connect sellers and customers through a centralized platform.
+
+**Key Features**
+- Multi-role access for administrators, sellers, and customers.
+- Seller product and transaction management.
+- Customer purchasing workflow.
+- Separate dashboards for different user roles.
+- Marketplace-oriented application structure.
+
+**Technology:** Laravel · React · Tailwind CSS · MySQL
+
+[View Repository →](https://github.com/SatriaFarel/BookPoint2)
+
+---
+
+### 02. ParkirKu
+
+**Parking Management System**
+
+A web-based parking management application with membership functionality and parking fee management.
+
+**Key Features**
+- Parking membership management.
+- Free parking access for active members.
+- Parking fee calculation for non-members based on duration.
+- Administrative dashboard.
+- Parking activity and reporting.
+
+**Technology:** Laravel · Blade · Tailwind CSS · MySQL
+
+[View Repository →](https://github.com/SatriaFarel/ParkirKu)
+
+---
+
+### 03. SIWarga
+
+**Community Management System**
+
+A web application designed to help manage neighborhood administration and resident-related information.
+
+**Key Features**
+- Resident data management.
+- Role-based administration.
+- Monthly community contribution management.
+- Administrative workflows.
+- Centralized information management.
+
+**Technology:** Laravel · MySQL · Tailwind CSS
+
+[View Repository →](https://github.com/SatriaFarel/SIWarga)
+
+---
+
+### 04. Buku Tamu Digital
+
+**Digital Guestbook & QR Code Check-in**
+
+A digital guestbook system for managing visitor records and invitation-based check-ins.
+
+**Key Features**
+- General visitor registration.
+- QR Code-based invitations for special guests.
+- Visitor check-in management.
+- Administrative visitor records.
+
+**Technology:** Laravel · PHP · JavaScript
+
+[View Repository →](https://github.com/SatriaFarel/Buku-Tamu)
+
+---
+
+### 05. Sertificate Kita
+
+**Digital Certificate Management**
+
+A web-based application for managing participant information and generating digital certificates.
+
+**Key Features**
+- Participant management.
+- Certificate generation.
+- PDF certificate downloads.
+- Event and participant administration.
+
+**Technology:** PHP · Web Development
+
+[View Repository →](https://github.com/SatriaFarel/Sertificate-Kita)
+
+---
+
+### 06. Celeste AI
+
+**AI Application Exploration**
+
+An experimental project exploring AI-related application development and integrations.
+
+[View Repository →](https://github.com/SatriaFarel/Celeste-AI)
+
+---
+
+## 04 / More Experiments
+
+Not every project needs to be a production application. Some are experiments, practice projects, and explorations of different programming languages.
+
+| Project | Technology |
+|:---|:---|
+| [Portofolio-New](https://github.com/SatriaFarel/Portofolio-New) | TypeScript |
+| [Linktree](https://github.com/SatriaFarel/Linktree) | TypeScript |
+| [Data-Siswa](https://github.com/SatriaFarel/Data-Siswa) | JavaScript |
+| [gomart](https://github.com/SatriaFarel/gomart) | C# |
+| [SiswaForm](https://github.com/SatriaFarel/SiswaForm) | Java |
+| [Kasir-71](https://github.com/SatriaFarel/Kasir-71) | PHP |
+
+[Explore All Repositories →](https://github.com/SatriaFarel?tab=repositories)
+
+---
+
+## 05 / GitHub Overview
+
+A snapshot of my public development activity, repositories, and programming language distribution.
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=SatriaFarel&theme=github-dark&mode=dark&v=profile-stats-2" width="100%" alt="GitHub profile statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaFarel&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" height="220" alt="Most used programming languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaFarel&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub contribution streak" />
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatriaFarel&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+
+<img src="https://github.com/SatriaFarel/SatriaFarel/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution graph animation" />
+
+</div>
+
+---
+
+## 06 / Currently Learning & Exploring
+
+Development doesn't stop at the technologies I already know.
+
+My current learning interests include:
+
+```text
+BACKEND ENGINEERING
+├── REST API Development
+├── Go Backend & MySQL
+├── Database Design
+└── Application Architecture
+
+MOBILE DEVELOPMENT
+├── Kotlin
+├── Jetpack Compose
+└── Flutter
+
+DEVELOPER WORKFLOW
+├── Docker
+├── Linux Environment
+├── Git & GitHub
+└── Deployment & Automation
+
+AI & INTEGRATION
+├── AI-assisted Development
+├── AI Application Integration
+└── Workflow Automation
+```
+
+My goal is to understand how different technologies work together to create reliable and maintainable applications.
+
+---
+
+## 07 / Development Philosophy
+
+```text
+             IDEA
+               |
+               v
+        +--------------+
+        | Requirements |
+        +--------------+
+               |
+               v
+        +--------------+
+        | System Design|
+        +--------------+
+               |
+               v
+        +--------------+
+        | Development  |
+        +--------------+
+               |
+               v
+        +--------------+
+        |   Testing    |
+        +--------------+
+               |
+               v
+        +--------------+
+        | Improvement  |
+        +--------------+
+               |
+               v
+        +--------------+
+        |    Product   |
+        +--------------+
+```
+
+I believe good software is not just about making something work. It is also about understanding the problem, designing a reasonable solution, and continuously improving the result.
+
+---
+
+## 08 / Beyond the Code
+
+Outside development, I enjoy exploring technology, learning new things, and following the software ecosystem.
+
+I'm particularly interested in:
+- Software engineering and application architecture.
+- Web technologies and modern development tools.
+- Linux and open-source software.
+- AI and developer productivity.
+- Building personal projects and experimenting with ideas.
+
+---
+
+## 09 / Let's Connect
+
+Interested in discussing development, exchanging ideas, or exploring interesting projects?
+
+<div align="center">
+
+<a href="https://kishiyuusha.my.id">
+<img src="https://img.shields.io/badge/Portfolio-kishiyuusha.my.id-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/SatriaFarel">
+<img src="https://img.shields.io/badge/LinkedIn-Satria_Farel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:satriafarel40@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/satriafarel30">
+<img src="https://img.shields.io/badge/Instagram-satriafarel30-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://linktree.kishiyuusha.my.id">
+<img src="https://img.shields.io/badge/Linktree-My_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+  _____       _       _        _____                  _
+ / ____|     | |     | |      |  ___|                | |
+| (___   __ _| |_ ___| |__    | |__ __ _ _ __ ___  | |
+ \___ \ / _` | __/ __| '_ \   |  __/ _` | '__/ _ \ | |
+ ____) | (_| | || (__| | | |  | | | (_| | | |  __/ |_|
+|_____/ \__,_|\__\___|_| |_|  |_|  \__,_|_|  \___| (_)
+
+```
+
+**Learn continuously. Build intentionally. Improve consistently.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:58A6FF&height=110&section=footer" width="100%" />
+
+<sub>© Satria Farel Cipta Permata · Built with curiosity and code.</sub>
+
+</div>
